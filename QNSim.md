@@ -106,3 +106,8 @@ blocked customer is considered as in queue ??
 &nbsp;    
 [>> **Go back to the homepage**](https://simopt.github.io)
 
+
+---
+
+© 2017-2018 simopt.github.io  
+Last update: 2018-05-03
