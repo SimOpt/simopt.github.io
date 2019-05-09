@@ -85,7 +85,7 @@ The identified closed loops is then passed into the simulator together with all 
 * *Outputs:*  
   - stationary distribution for each station  
   - averaged number of customers in each station<sup><font color="red">1</font></sup> & the whole system, and the variance of the AVERAGED number
-  - averaged number of customers waiting in each station queue & the whole system, and the variance of the AVERAGED number
+  - averaged number of customers waiting<sup><font color="red">2</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
   - averaged sojourn time\* in each station & the whole system (waiting + serving), and the variance of the AVERAGED number
   - averaged waiting time\* in each station queue & the whole system, and the variance of the AVERAGED number
   
@@ -97,9 +97,11 @@ Besides, if a customer never enters station 1, he will not be counted when calcu
 If a customer enters station 1 more than once, he is still regarded as one customer.
 (It is not difficult to modify the code to count all arrivals.)*
 
-<sup><font color="red">1</font></sup> Customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.
+<sup><font color="red">1</font></sup>
+Customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.
 
-
+<sup><font color="red">2</font></sup>
+Customers who have finished service but still occupy the server because the destination station is full are not included.
 
 block time is considered as waiting time ??
 
