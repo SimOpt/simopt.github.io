@@ -86,22 +86,24 @@ The identified closed loops is then passed into the simulator together with all 
   - stationary distribution for each station  
   - averaged number of customers in each station<sup><font color="red">1</font></sup> & the whole system, and the variance of the AVERAGED number
   - averaged number of customers waiting<sup><font color="red">2</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
-  - averaged sojourn time\* in each station & the whole system (waiting + serving), and the variance of the AVERAGED number
-  - averaged waiting time\* in each station queue & the whole system, and the variance of the AVERAGED number
+  - averaged sojourn time<sup><font color="red">3</font></sup> in each station & the whole system (waiting + serving), and the variance of the AVERAGED number
+  - averaged waiting time<sup><font color="red">3</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
   
 
-\* 
-*Note about the calculation of averaged sojourn time and waiting time:
-Only consider the customers ever enter the station, i.e., the rejected customers are not counted.
-Besides, if a customer never enters station 1, he will not be counted when calculating sojourn time for station 1.
+<!--\* -->
+
+*Note:*  
+<sup><font color="red">1</font></sup>
+*Customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.*  
+<sup><font color="red">2</font></sup>
+*Customers who have finished service but still occupy the server because the destination station is full are not included.*  
+<sup><font color="red">3</font></sup>
+*When calculating the averaged sojourn time and waiting time,
+only consider the customers ever enter the system and leave the system before simulation terminates,
+i.e., the rejected customers are not counted; the customers who are still in the system when simulation terminates are not counted.
+Besides, if a customer never enters station 1, he will not be counted when calculating averaged sojourn time for station 1.
 If a customer enters station 1 more than once, he is still regarded as one customer.
 (It is not difficult to modify the code to count all arrivals.)*
-
-<sup><font color="red">1</font></sup>
-Customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.
-
-<sup><font color="red">2</font></sup>
-Customers who have finished service but still occupy the server because the destination station is full are not included.
 
 block time is considered as waiting time ??
 
