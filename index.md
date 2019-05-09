@@ -90,5 +90,5 @@ and
 
 ---
 
-© 2017-2018 simopt.github.io  
-Last update: 2018-05-03
+© simopt.github.io  
+Last Update: 2018-05-03
