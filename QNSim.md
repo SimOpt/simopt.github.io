@@ -87,7 +87,7 @@ The identified closed loops is then passed into the simulator together with all 
   - averaged number of customers in each station<sup><font color="red">1</font></sup> & the whole system, and the variance of the AVERAGED number
   - averaged number of customers waiting in each station queue & the whole system<sup><font color="red">2</font></sup>, and the variance of the AVERAGED number
   - averaged sojourn time<sup><font color="red">3</font></sup> in each station & the whole system (waiting + serving), and the variance of the AVERAGED number
-  - averaged waiting time<sup><font color="red">3</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
+  - averaged waiting time<sup><font color="red">3,4</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
   
 
 <!--\* -->
@@ -102,9 +102,11 @@ The identified closed loops is then passed into the simulator together with all 
 only consider the customers ever enter the system and leave the system before simulation terminates,
 i.e., the rejected customers are not counted; the customers who are still in the system when simulation terminates are not counted.
 Besides, if a customer never enters station 1, he will not be counted when calculating averaged sojourn time for station 1.
-If a customer enters station 1 more than once, he is still regarded as one customer.
-(It is not difficult to modify the code to count all arrivals.)*
-
+(It is not difficult to modify the code to count all arrivals.)
+If a customer enters station 1 more than once, he is still regarded as one customer.*  
+<sup><font color="red">4</font></sup>
+*When a customer finishes service but still occupies the server because the destination station is full, such time period is not considered as waiting time.
+The waiting time only means the time a customer spend in the queue.* 
 
 &nbsp;    
 &nbsp;    
