@@ -37,7 +37,7 @@ and leaves the network with probability
 <img src="https://latex.codecogs.com/svg.latex?\inline&space;P_{i0}=1-\sum_{j=1}^N&space;P_{ij}" title="P_{i0}=1-\sum_{j=1}^N P_{ij}">,
 for <img src="https://latex.codecogs.com/svg.latex?{i,j=1,\ldots,N}">.
 There exists some <img src="https://latex.codecogs.com/svg.latex?{i}"> for which <img src="https://latex.codecogs.com/svg.latex?{P_{i0}>0}">.
-Moreover, it is allowed that a customer finishing service is routed to the same station, i.e., <img src="https://latex.codecogs.com/svg.latex?{P_{ii}}"> can be nonzero.
+Moreover, it is allowed that a customer finishing service is routed to the same station (re-enter), i.e., <img src="https://latex.codecogs.com/svg.latex?{P_{ii}}"> can be nonzero.
 In this case, the customer will join the end of the queue (if any) of this station.
 5. Station <img src="https://latex.codecogs.com/svg.latex?{i}"> has capacity <img src="https://latex.codecogs.com/svg.latex?{K_i}">, i.e. the maximum number of customers allowed in the station, including those waiting in queue and those being served,
 for <img src="https://latex.codecogs.com/svg.latex?{i=1,\ldots,N}">.
@@ -50,7 +50,9 @@ The blocked customers, either at the same station or at different stations, are 
 This blocking mechanism is known as blocking-after-service (BAS).
 
 #### About deadlock
-For queueing network with closed loop and finite capacity, deadlock phenomenon may occur. In this simulator, when deadlock occurs, it is solved by swapping instantaneously.
+For queueing network with closed loop and finite capacity, deadlock phenomenon may occur.
+In this simulator, when deadlock occurs, it is solved by swapping instantaneously.
+Besides, when a customer re-enter a station, he has higher priority than those blocked in other stations.
 
 
 ### Code Details
