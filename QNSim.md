@@ -115,5 +115,5 @@ The waiting time only means the time a customer spend in the queue.*
 
 ---
 
-© 2017-2018 simopt.github.io  
+© simopt.github.io  
 Last update: 2018-05-03
