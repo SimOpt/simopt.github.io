@@ -53,7 +53,7 @@ For queueing network with closed loop and finite capacity, deadlock phenomenon m
 ### Code Details
 
 The codes were written in MATLAB R2015a.
-They (except for the third-party functions mentioned below) can be freely redistributed and used under the terms of the <a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/LICENSE" target="_blank">BSD 3-Clause License</a>.  
+They (except for the third-party functions mentioned below) can be freely redistributed and used under the terms of the <a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/BSD License.txt" target="_blank">BSD 3-Clause License</a>.  
 
 Download the entire page with an example in it.
 
