@@ -92,7 +92,8 @@ The identified closed loops is then passed into the simulator together with all 
 
 <!--\* -->
 
-*Notes:*  
+<!--*Notes:*  -->
+#### *Notes*
 <sup><font color="red">1</font></sup>
 *It includes the customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.*  
 <sup><font color="red">2</font></sup>
