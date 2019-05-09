@@ -97,7 +97,7 @@ Besides, if a customer never enters station 1, he will not be counted when calcu
 If a customer enters station 1 more than once, he is still regarded as one customer.
 (It is not difficult to modify the code to count all arrivals.)*
 
-<sup><font color="red">1</font></sup> It is number of customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.
+<sup><font color="red">1</font></sup> Customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.
 
 
 
