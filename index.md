@@ -13,7 +13,7 @@ These codes are mainly implementations of some models and algorithms developed b
 
 **LICENSE:**
 All codes written by SHEN Haihui can be freely redistributed and used under the terms of the
-<a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/LICENSE" target="_blank">BSD 3-Clause License</a>.
+<a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/BSD License.txt" target="_blank">BSD 3-Clause License</a>.
 
 **WARNING:**
 These codes are written only for the purpose of demonstration and verification.
