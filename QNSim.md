@@ -25,7 +25,8 @@ A customer that completes the service at one station may be routed to another to
 2. Station <img src="https://latex.codecogs.com/svg.latex?{i}"> has <img src="https://latex.codecogs.com/svg.latex?{s_i}">
 identical servers, each of which has the service rate <img src="https://latex.codecogs.com/svg.latex?{\mu_i>0}">, for
 <img src="https://latex.codecogs.com/svg.latex?{i=1,\ldots,N}">.
-All the stations follow the first-in-first-out (FIFO) discipline.  
+All the stations follow the first-in-first-out (FIFO) discipline.
+And there is only one queue for each station.  
 3. The arrival rate of external customers to station <img src="https://latex.codecogs.com/svg.latex?{i}"> is 
 <img src="https://latex.codecogs.com/svg.latex?{\lambda_i\geq&space;0}">, for <img src="https://latex.codecogs.com/svg.latex?{i=1,\ldots,N}">.
 There exists some <img src="https://latex.codecogs.com/svg.latex?{i}"> for which <img src="https://latex.codecogs.com/svg.latex?{\lambda_i>0}">.  
