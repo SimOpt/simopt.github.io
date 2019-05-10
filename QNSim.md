@@ -39,7 +39,7 @@ for <img src="https://latex.codecogs.com/svg.latex?{i,j=1,\ldots,N}">.
 There exists some <img src="https://latex.codecogs.com/svg.latex?{i}"> for which <img src="https://latex.codecogs.com/svg.latex?{P_{i0}>0}">.
 Moreover, it is allowed that a customer finishing service is routed to the same station (re-enter), i.e., <img src="https://latex.codecogs.com/svg.latex?{P_{ii}}"> can be nonzero.
 In this case, the customer will join the end of the queue (if any) of this station while the first customer in queue (if any) move into the vacated server simultaneously.
-5. Station <img src="https://latex.codecogs.com/svg.latex?{i}"> has capacity <img src="https://latex.codecogs.com/svg.latex?{K_i}">, i.e. the maximum number of customers allowed in the station, including those waiting in queue and those being served,
+5. Station <img src="https://latex.codecogs.com/svg.latex?{i}"> has capacity <img src="https://latex.codecogs.com/svg.latex?{K_i}">, i.e. the maximum number of customers allowed in the station, including those waiting in queue and those in the servers,
 for <img src="https://latex.codecogs.com/svg.latex?{i=1,\ldots,N}">.
 The capacity can be finite or infinite.
 
