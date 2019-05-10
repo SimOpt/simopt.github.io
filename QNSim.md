@@ -51,7 +51,7 @@ This blocking mechanism is known as blocking-after-service (BAS).
 
 #### About deadlock
 For queueing network with closed loop and finite capacity, deadlock phenomenon may occur.
-In this simulator, when deadlock occurs, it is solved by swapping instantaneously.
+In this simulator, when deadlock occurs, it is solved by *swapping* instantaneously.
 Besides, when a customer re-enters a station, he has higher priority than those blocked in other stations.
 
 
