@@ -60,7 +60,7 @@ Besides, when a customer re-enters a station, he has higher priority than those 
 The codes were written in MATLAB R2015a.
 They (except for the third-party functions mentioned below) can be freely redistributed and used under the terms of the <a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/BSD License.txt" target="_blank">BSD 3-Clause License</a>.  
 
-[Download the entire page](https://github.com/SimOpt/simopt.github.io/blob/master/code/QNSim/QNSim.zip?raw=true "Click to download")
+[Download the entire package](https://github.com/SimOpt/simopt.github.io/blob/master/code/QNSim/QNSim.zip?raw=true "Click to download")
 with an example in it.
 
 
