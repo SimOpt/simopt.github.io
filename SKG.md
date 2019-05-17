@@ -1,5 +1,5 @@
 ---
-title:
+title: Stochastic Kriging with Gradient
 ---
 ---
 
@@ -7,7 +7,7 @@ title:
 <!-- insert one empty line -->
 <!-- can also use "<a></a>" or "<br><br>"  -->
 
-## SKG
+## Stochastic Kriging with Gradient
 Under construction...
 
 
