@@ -107,7 +107,7 @@ The identified closed loops are then passed into the simulator together with all
 *When calculating the averaged sojourn time and waiting time,
 only consider the customers ever enter the system and leave the system before simulation terminates,
 i.e., the rejected customers are not counted; the customers who are still in the system when simulation terminates are not counted.
-Besides, if a customer never enters station 1, he will not be counted when calculating averaged sojourn time for station 1.
+Besides, if a customer never enters station 1, he will not be counted when calculating averaged sojourn time and waiting time for station 1.
 (It is not difficult to modify the code to count all arrivals.)
 If a customer enters station 1 more than once, he is still regarded as one customer.*  
 <sup><font color="red">4</font></sup>
