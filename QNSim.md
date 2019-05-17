@@ -68,7 +68,7 @@ Before calling the simulator, we first need to find all the closed loop in the n
 It is achieved by a third-party function "<font color="brown">find_elem_circuits.m</font>" (author: Chris Maes [gist.github.com/cmaes/1260153](https://gist.github.com/cmaes/1260153)).
 Moreover, the function "<font color="brown">find_elem_circuits.m</font>" relies on a function "<font color="brown">components.m</font>",
 which is a function in the graph package MatlabBGL (author: David Gleich [dgleich.github.io/matlab-bgl](http://dgleich.github.io/matlab-bgl)).
-The identified closed loops is then passed into the simulator together with all other network parameters.
+The identified closed loops are then passed into the simulator together with all other network parameters.
 
 #### Inputs and outputs
 
