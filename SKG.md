@@ -21,6 +21,7 @@ They (except for the third-party functions mentioned below) can be freely redist
 [Download the entire package](https://github.com/SimOpt/simopt.github.io/blob/master/code/QNSim/QNSim.zip?raw=true "Click to download")
 with an example in it.
 
+### Remarks
 * Gaussian (or called squared exponential) correlation function of the form <img src="https://latex.codecogs.com/svg.latex?\inline&space;R(\boldsymbol{x}-\boldsymbol{y};\boldsymbol{\theta&space;})=\textup{exp}(-\sum_{i=1}^{d}\theta_i&space;|x_i-y_i|^2)">
 with <img src="https://latex.codecogs.com/svg.latex?\inline&space;\theta_i>0"> for <img src="https://latex.codecogs.com/svg.latex?\inline&space;i=1,\ldots,d"> is used.
 It is easy to modify the function <font color="brown">C</font> in "<font color="brown">neglogLL.m</font>" and "<font color="brown">SKGpredict.m</font>" to use other types of correlation function.
