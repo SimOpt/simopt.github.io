@@ -1,6 +1,6 @@
 # Simulation Optmization Code Gallery
 
-Visit the webpage: https://simopt.github.io/
+Visit the webpage: https://simopt.github.io
 
 ## About
 This repository archives codes written or collected by SHEN Haihui for the purpose of research in the areas of simulation optimization, ranking & selection, kriging metamodeling, etc.
