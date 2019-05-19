@@ -1,1 +1,1 @@
-# QNSim
+# Queueing Network Simulator
