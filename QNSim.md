@@ -16,7 +16,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ### Queueing Network Details  
 
-This simulator can simulate **open queueing network** that consists of a **finite number of GGsK stations** to provide service.
+This simulator can simulate **open queueing network** that consists of a **finite number of G/G/s/K stations** to provide service.
 External customers may enter the network via each station.
 A customer that completes the service at one station may be routed to another to receive further service or leave the network **subject to probability**.
 
