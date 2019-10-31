@@ -74,10 +74,12 @@ and
 * [Ranking and Selection with Covariates (R&S-C)]()
 -->
 
+<!--
 ### Other Implementations
 * [Queueing Network Approximation]()    
 &nbsp;- a decomposition approximation of open finite-capacity queuing networks with BAS  
 &nbsp;- proposed by [Osorio and Bierlaire (2009)](https://doi.org/10.1016/j.ejor.2008.04.035)
+-->
 
 ### Useful Codes Developed by Others
 * Stochastic Kriging [(stochastickriging.net)](http://stochastickriging.net)
