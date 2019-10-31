@@ -42,11 +42,12 @@ Codes
 ### Simulation
 * [Queueing Network Simulator](https://simopt.github.io/QNSim)
 
-* [Markov Simulation Model of Esophageal Cancer]()    
+<!--* [Markov Simulation Model of Esophageal Cancer]()    
 &nbsp;- adapted from
 <a href="https://doi.org/10.1093/jnci/djh039" target="_blank">Hur et al. (2004)</a>
 and 
 <a href="http://cancerpreventionresearch.aacrjournals.org/content/7/3/341" target="_blank">Choi et al. (2014)</a>
+-->
 
 ### Kriging Metamodeling
 <!-- * Stochastic kriging, copyrighted by Barry L. Nelson et al. (2009) -->
@@ -55,17 +56,23 @@ and
 &nbsp;- proposed by
 <a href="https://doi.org/10.1287/opre.1120.1143" target="_blank">Chen et al. (2013)</a>
 
+<!--
 ### Optimization via Simulation
 * [Convergent Optimization via Most-Promising-Area Stochastic Search (COMPASS)]()    
 &nbsp;- a locally convergent algorithm for discrete optimization via simulation    
 &nbsp;- proposed by [Hong and Nelson (2006)](https://doi.org/10.1287/opre.1050.0237)
+-->
 
+<!--
 * [Gaussian Process-based Search (GPS)](https://simopt.github.io/GPS)    
 &nbsp;- a globally convergent algorithm for discrete optimization via simulation    
 &nbsp;- proposed by [Sun et al. (2014)](https://doi.org/10.1287/opre.2014.1315)
+-->
 
+<!--
 ### Ranking & Selection
 * [Ranking and Selection with Covariates (R&S-C)]()
+-->
 
 ### Other Implementations
 * [Queueing Network Approximation]()    
