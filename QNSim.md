@@ -114,7 +114,7 @@ Besides, if a customer never enters station 1, he will not be counted when calcu
 If a customer enters station 1 more than once, he is still regarded as one customer.*  
 <sup><font color="red">4</font></sup>
 *When a customer finishes service but still occupies the server because the destination station is full, such time period is not considered as waiting time.
-The waiting time only means the time a customer spend in the queue.* 
+The waiting time only means the time a customer spends in the queue.* 
 
 &nbsp;    
 &nbsp;    
