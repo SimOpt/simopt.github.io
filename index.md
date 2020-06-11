@@ -33,7 +33,7 @@ While the correctness has been carefully checked, the quality such as standardab
 * Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2019). Ranking and Selection with Covariates for Personalized Decision Making. Submitted to *INFORMS Journal on Computing*.
 <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  
 Codes
-(MATLAB R2015a. will be uploaded later)
+(MATLAB R2015a. Under preparation. Will be uploaded soon!)
 
 
 &nbsp;    
