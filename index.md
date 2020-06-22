@@ -31,10 +31,9 @@ While the correctness has been carefully checked, the quality such as standardab
 (MATLAB R2015a. Last update: 2018-05-03)
 
 * Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2020). Ranking and Selection with Covariates for Personalized Decision Making. Submitted to *INFORMS Journal on Computing*.
-<!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 [Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperR&S-C2020/R&S-C2020.zip?raw=true "Click to download the entire package")
 (MATLAB R2018b. Last update: 2020-06-19)
-
+<!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
 &nbsp;    
 ## Codes Listed by Content
