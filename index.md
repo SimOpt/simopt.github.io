@@ -41,12 +41,11 @@ While the correctness has been carefully checked, the quality such as standardab
 ### Simulation
 * [Queueing Network Simulator](https://simopt.github.io/QNSim)
 
-<!--* [Markov Simulation Model of Esophageal Cancer]()    
-&nbsp;- adapted from
+* [Esophageal Cancer Simulator](https://simopt.github.io/ECSim)    
+&nbsp;- implementation of a Markov simulation model of esophageal cancer adapted from
 <a href="https://doi.org/10.1093/jnci/djh039" target="_blank">Hur et al. (2004)</a>
 and 
 <a href="http://cancerpreventionresearch.aacrjournals.org/content/7/3/341" target="_blank">Choi et al. (2014)</a>
--->
 
 ### Kriging Metamodeling
 <!-- * Stochastic kriging, copyrighted by Barry L. Nelson et al. (2009) -->
