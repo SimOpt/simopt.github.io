@@ -15,3 +15,14 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ## Esophageal Cancer Simulator
 
 ### Introduction  
+
+
+&nbsp;    
+&nbsp;    
+[>> **Go back to the homepage**](https://simopt.github.io)
+
+
+---
+
+© simopt.github.io  
+Last Update: 2020-06-22
