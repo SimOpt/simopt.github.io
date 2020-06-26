@@ -99,4 +99,4 @@ and
 ---
 
 © simopt.github.io  
-Last Update: 2020-06-19
+Last Update: 2020-06-26
