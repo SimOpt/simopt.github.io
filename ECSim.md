@@ -15,6 +15,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ## Esophageal Cancer Simulator
 
 ### Introduction  
+![image](https://github.com/SimOpt/simopt.github.io/blob/master/code/ECSim/EC.jpg)
 
 
 &nbsp;    
