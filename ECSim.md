@@ -23,7 +23,7 @@ In addition, each patient may have a different response to drugs depending on hi
 Hence, it is conceivable that the best treatment regimen for BE is patient-specific.
 
 <!-- ![image](https://simopt.github.io/code/ECSim/EC.jpg)  -->
-![test image size](https://simopt.github.io/code/ECSim/EC.jpg){:height="80%"}
+![test image size](https://simopt.github.io/code/ECSim/EC.jpg){:height="80%" width="80%"}
 
 
 &nbsp;    
