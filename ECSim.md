@@ -25,6 +25,12 @@ Hence, it is conceivable that the best treatment regimen for BE is patient-speci
 <!-- ![image](https://simopt.github.io/code/ECSim/EC.jpg)  -->
 ![test image size](https://simopt.github.io/code/ECSim/EC.jpg){:height="80%" width="80%"}
 
+This simulation model is adopted from
+<a href="https://doi.org/10.1093/jnci/djh039" target="_blank">Hur et al. (2004)</a>
+and 
+<a href="http://cancerpreventionresearch.aacrjournals.org/content/7/3/341" target="_blank">Choi et al. (2014)</a>
+, and it simulates the transitions among different health states of a BE patient until death, and the transition diagram of the model is shown and explained as follows.
+
 
 &nbsp;    
 &nbsp;    
