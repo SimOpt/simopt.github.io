@@ -28,16 +28,15 @@ Here is a discrete-time Markov chain model adopted from
 and 
 <a href="http://cancerpreventionresearch.aacrjournals.org/content/7/3/341" target="_blank">Choi et al. (2014)</a>
 , and it simulates the transitions among different health states of a BE patient until death, and the transition diagram of the model is shown as follows.
+See more details of the model <a href="https://simopt.github.io/code/ECSim/ModelDescription.pdf" target="_blank">here</a>. 
 
-![test image size](https://simopt.github.io/code/ECSim/TransitionDiagram.jpg){:height="70%" width="70%"}
-
-See more details of the model <a href="https://simopt.github.io/code/ECSim/ModelDescription.pdf" target="_blank">here</a>.   
+![test image size](https://simopt.github.io/code/ECSim/TransitionDiagram.jpg){:height="50%" width="50%"}
 
 
 The codes were written in MATLAB R2015a.
-They (except for the third-party functions mentioned below) can be freely redistributed and used under the terms of the <a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/BSD License.txt" target="_blank">BSD 3-Clause License</a>.  
+They can be freely redistributed and used under the terms of the <a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/BSD License.txt" target="_blank">BSD 3-Clause License</a>.  
 
-[Download the entire package](https://github.com/SimOpt/simopt.github.io/blob/master/code/SKG/SKG.zip?raw=true "Click to download")
+[Download the codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/ECSim/ECSim.zip?raw=true "Click to download")
 with an example in it.
 
 
