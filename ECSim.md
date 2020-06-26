@@ -21,7 +21,9 @@ In addition, each patient may have a different response to drugs depending on hi
 Hence, it is conceivable that the best treatment regimen for BE is patient-specific.
 
 <!-- ![image](https://simopt.github.io/code/ECSim/EC.jpg)  -->
-![test image size](https://simopt.github.io/code/ECSim/EC.jpg){:height="70%" width="70%"}
+![EC Figure](https://simopt.github.io/code/ECSim/EC.jpg){:height="70%" width="70%"}
+
+<img src="https://simopt.github.io/code/ECSim/EC.jpg" width = "70%" height = "70%" alt="EC Figure" align=center />
 
 Here is a discrete-time Markov chain model adopted from
 <a href="https://doi.org/10.1093/jnci/djh039" target="_blank">Hur et al. (2004)</a>
