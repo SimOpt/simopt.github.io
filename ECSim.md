@@ -16,7 +16,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ### Introduction  
 ![image](https://github.com/SimOpt/simopt.github.io/blob/master/code/ECSim/EC.jpg)
-
+![image](https://github.com/SimOpt/simopt.github.io/raw/master/code/ECSim/EC.jpg)
 
 &nbsp;    
 &nbsp;    
