@@ -15,10 +15,15 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ## Esophageal Cancer Simulator
 
 ### Introduction  
-![image](https://simopt.github.io/code/ECSim/EC.jpg)  
-![image](https://simopt.github.io/code/ECSim/EC.jpg =100x20)  
+
+Esophageal adenocarcinoma (EAC) is a main sub-type of esophageal cancer, while Barrett's esophagus (BE) is a precursor to EAC (see the figure below).
+Recently, chemoprevention has received substantial attention as a method to lower the progression of BE to EAC, and aspirin and statin are two particular drugs that are demonstrated to be effective (Kastelein et al. 2011).
+For each BE patient, the progression rate to cancer depends on a variety of factors including age, weight, lifestyle habits such as smoking and alcohol use, the grade of dysplasia, etc.
+In addition, each patient may have a different response to drugs depending on his or her drug resistance and tolerance.
+Hence, it is conceivable that the best treatment regimen for BE is patient-specific.
+
+<!-- ![image](https://simopt.github.io/code/ECSim/EC.jpg)  -->
 ![test image size](https://simopt.github.io/code/ECSim/EC.jpg){:height="50%" width="50%"}
-![image](https://simopt.github.io/code/ECSim/EC2.svg)  
 
 
 &nbsp;    
