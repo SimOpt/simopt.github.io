@@ -35,7 +35,7 @@ See more details of the model <a href="https://simopt.github.io/code/ECSim/Model
 ![Diagram](https://simopt.github.io/code/ECSim/TransitionDiagram.jpg){:height="50%" width="50%"}
 
 
-The codes were written in MATLAB R2018b.
+I have implemented this model and the codes were written in MATLAB R2018b.
 They can be freely redistributed and used under the terms of the <a href="https://raw.githubusercontent.com/SimOpt/simopt.github.io/master/BSD License.txt" target="_blank">BSD 3-Clause License</a>.  
 
 [Download the codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/ECSim/ECSim.zip?raw=true "Click to download")
