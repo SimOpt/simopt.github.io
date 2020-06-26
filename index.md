@@ -39,7 +39,8 @@ While the correctness has been carefully checked, the quality such as standardab
 ## Codes Listed by Content
 
 ### Simulation
-* [Queueing Network Simulator](https://simopt.github.io/QNSim)
+* [Queueing Network Simulator](https://simopt.github.io/QNSim)  
+&nbsp;- open queueing network that consists of a finite number of G/G/s/K stations
 
 * [Esophageal Cancer Simulator](https://simopt.github.io/ECSim)    
 &nbsp;- a Markov simulation model of esophageal cancer adapted from
