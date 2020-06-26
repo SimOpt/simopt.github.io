@@ -23,7 +23,7 @@ Hence, it is conceivable that the best treatment regimen for BE is patient-speci
 <!-- ![image](https://simopt.github.io/code/ECSim/EC.jpg)  -->
 ![EC Figure](https://simopt.github.io/code/ECSim/EC.jpg){:height="70%" width="70%"}
 
-<img src="https://simopt.github.io/code/ECSim/EC.jpg" width = "70%" height = "70%" alt="EC Figure" align=center />
+<!-- <img src="https://simopt.github.io/code/ECSim/EC.jpg" width = "70%" height = "70%" alt="EC Figure" align=center /> -->
 
 Here is a discrete-time Markov chain model adopted from
 <a href="https://doi.org/10.1093/jnci/djh039" target="_blank">Hur et al. (2004)</a>
@@ -32,7 +32,7 @@ and
 , and it simulates the transitions among different health states of a BE patient until death, and the transition diagram of the model is shown as follows.
 See more details of the model <a href="https://simopt.github.io/code/ECSim/ModelDescription.pdf" target="_blank">here</a>. 
 
-![test image size](https://simopt.github.io/code/ECSim/TransitionDiagram.jpg){:height="50%" width="50%"}
+![Diagram](https://simopt.github.io/code/ECSim/TransitionDiagram.jpg){:height="50%" width="50%"}
 
 
 The codes were written in MATLAB R2018b.
@@ -50,4 +50,4 @@ with an example in it.
 ---
 
 © simopt.github.io  
-Last Update: 2020-06-22
+Last Update: 2020-06-26
