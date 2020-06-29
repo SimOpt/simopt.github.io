@@ -30,13 +30,14 @@ While the correctness has been carefully checked, the quality such as standardab
 [Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperSESK2018/SESK2018.zip?raw=true "Click to download the entire package")
 (MATLAB R2015a. Last update: 2018-05-03)
 
-* Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2020). Ranking and Selection with Covariates for Personalized Decision Making. Submitted to *INFORMS Journal on Computing*.  
+* Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2020). Ranking and selection with covariates for personalized decision making. Submitted to *INFORMS Journal on Computing*.  
 [Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperR&S-C2020/R&S-C2020.zip?raw=true "Click to download the entire package")
 (MATLAB R2018b. Last update: 2020-06-19)
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
 * Zhang, Xiaowei, Haihui Shen, L. Jeff Hong, and Liang Ding (2020). Knowledge gradient for selection with covariates: Consistency and computation. Submitted to *Naval Research Logistics*.  
-Codes are uploading
+[Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperIKG2020/IKG2020.zip?raw=true "Click to download the entire package")
+(MATLAB R2018b. Last update: 2020-06-29)
 
 &nbsp;    
 ## Codes Listed by Content
