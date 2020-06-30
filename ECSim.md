@@ -24,7 +24,10 @@ Hence, it is conceivable that the best treatment regimen for BE is patient-speci
 ![EC Figure](https://simopt.github.io/code/ECSim/EC.jpg){:height="70%" width="70%"}  
 *Note: [Original Image](https://commons.wikimedia.org/wiki/File:Diagram_showing_oesophageal_cancer_that_has_spread_(M_staging)_CRUK_175.svg)
 by Cancer Research UK / Wikimedia Commons / 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).*
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).*  
+<span style="font-size: 14px"> 
+test
+</span>  
 
 <!-- <img src="https://simopt.github.io/code/ECSim/EC.jpg" width = "70%" height = "70%" alt="EC Figure" align=center /> -->
 
