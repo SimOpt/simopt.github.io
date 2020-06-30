@@ -89,7 +89,7 @@ and
 (<a href="http://stochastickriging.net" target="_blank">stochastickriging.net</a>)
 
 * Industrial Strength COMPASS (ISC) 
-(<a href="http://www.iscompass.net" target="_blank">www.iscompass.net/a>)
+(<a href="http://www.iscompass.net" target="_blank">www.iscompass.net</a>)
 
 
 <!--  **Example of <font color="red">colorful text in web view</font>** -->
