@@ -12,7 +12,7 @@ Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheats
 Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.php
 -->
 
-## Esophageal Cancer Simulator
+## [Esophageal Cancer Simulator](https://simopt.github.io/ECSim)
 
 Esophageal adenocarcinoma (EAC) is a main sub-type of esophageal cancer, while Barrett's esophagus (BE) is a precursor to EAC (see the figure below).
 Recently, chemoprevention has received substantial attention as a method to lower the progression of BE to EAC, and aspirin and statin are two particular drugs that are demonstrated to be effective (<a href="https://doi.org/10.1053/j.gastro.2011.08.036" target="_blank">Kastelein et al. 2011</a>).
