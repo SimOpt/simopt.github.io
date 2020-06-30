@@ -12,7 +12,7 @@ Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheats
 Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.php
 -->
 
-## Stochastic Kriging with Gradient
+## [Stochastic Kriging with Gradient](https://simopt.github.io/SKG)
 This is an implementation of the Stochastic Kriging with Gradient (SKG) proposed by <a href="https://doi.org/10.1287/opre.1120.1143" target="_blank">Chen et al. (2013)</a>.  
 
 The codes were written in MATLAB R2015a.
