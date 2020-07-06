@@ -85,6 +85,9 @@ and
 -->
 
 ### Useful Codes Developed by Others
+* SimOpt Testbed
+(<a href="https://github.com/simopt-admin/simopt/wiki" target="_blank">github.com/simopt-admin/simopt/wiki</a>)
+
 * Stochastic Kriging 
 (<a href="http://stochastickriging.net" target="_blank">stochastickriging.net</a>)
 
