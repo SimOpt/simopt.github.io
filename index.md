@@ -85,8 +85,9 @@ and
 -->
 
 ### Useful Codes Developed by Others
-* SimOpt Testbed for comparison of simulation optimization solvers (algorithms)
-[<a href="https://github.com/simopt-admin/simopt/wiki" target="_blank">github.com/simopt-admin/simopt/wiki</a>]
+* SimOpt Testbed 
+[<a href="https://github.com/simopt-admin/simopt/wiki" target="_blank">github.com/simopt-admin/simopt/wiki</a>]  
+&nbsp;- for comparison of simulation optimization solvers (algorithms)
 
 * Stochastic Kriging 
 [<a href="http://stochastickriging.net" target="_blank">stochastickriging.net</a>]
