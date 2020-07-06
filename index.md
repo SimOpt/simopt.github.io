@@ -85,14 +85,14 @@ and
 -->
 
 ### Useful Codes Developed by Others
-* SimOpt Testbed
-(<a href="https://github.com/simopt-admin/simopt/wiki" target="_blank">github.com/simopt-admin/simopt/wiki</a>)
+* SimOpt Testbed for comparison of simulation optimization solvers (algorithms)
+[<a href="https://github.com/simopt-admin/simopt/wiki" target="_blank">github.com/simopt-admin/simopt/wiki</a>]
 
 * Stochastic Kriging 
-(<a href="http://stochastickriging.net" target="_blank">stochastickriging.net</a>)
+[<a href="http://stochastickriging.net" target="_blank">stochastickriging.net</a>]
 
 * Industrial Strength COMPASS (ISC) 
-(<a href="http://www.iscompass.net" target="_blank">www.iscompass.net</a>)
+[<a href="http://www.iscompass.net" target="_blank">www.iscompass.net</a>]
 
 
 <!--  **Example of <font color="red">colorful text in web view</font>** -->
