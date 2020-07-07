@@ -35,8 +35,8 @@ While the correctness has been carefully checked, the quality such as standardab
 (MATLAB R2018b. Last update: 2020-06-19)
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
-* Zhang, Xiaowei, Haihui Shen, L. Jeff Hong, and Liang Ding (2020). Knowledge gradient for selection with covariates: Consistency and computation. Submitted to *Naval Research Logistics*.  
-<a href="https://arxiv.org/pdf/1906.05098v3.pdf" target="_blank">PDF</a>   
+* Zhang, Xiaowei, Haihui Shen, L. Jeff Hong, and Liang Ding (2020). Knowledge gradient for selection with covariates: Consistency and computation. Submitted to *Naval Research Logistics*.
+<a href="https://arxiv.org/pdf/1906.05098v3.pdf" target="_blank">arXiv</a>   
 [Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperIKG2020/IKG2020.zip?raw=true "Click to download the entire package")
 (MATLAB R2018b. Last update: 2020-06-29)
 
