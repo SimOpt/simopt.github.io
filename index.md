@@ -27,7 +27,7 @@ While the correctness has been carefully checked, the quality such as standardab
 <a href="https://doi.org/10.1080/24725854.2018.1465242" target="_blank">Enhancing stochastic kriging for queueing simulation with stylized models.</a>
 *IISE Transactions*, 50(11):943-958.
 <a href="https://shenhaihui.github.io/research/papers/SESK2018.pdf" target="_blank">PDF</a>  
-[Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperSESK2018/SESK2018.zip?raw=true "Click to download the entire package")
+[Codes](https://shenhaihui.github.io/code/paperSESK2018/SESK2018.zip "Click to download the entire package")
 (MATLAB R2015a. Last update: 2018-05-03)
 
 * Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2018). Ranking and selection with covariates for personalized decision making. Submitted to *INFORMS Journal on Computing*.  
