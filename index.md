@@ -23,14 +23,14 @@ While the correctness has been carefully checked, the quality such as standardab
 &nbsp;    
 ## Codes Listed by Paper
 
-* Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2018).
+* Haihui Shen, L. Jeff Hong, and Xiaowei Zhang (2018).
 <a href="https://doi.org/10.1080/24725854.2018.1465242" target="_blank">Enhancing stochastic kriging for queueing simulation with stylized models.</a>
 *IISE Transactions*, **50**(11):943-958.
 <a href="https://shenhaihui.github.io/research/papers/SESK2018.pdf" target="_blank">PDF</a>  
 [Codes](https://simopt.github.io/code/paperSESK2018/SESK2018.zip "Click to download the entire package")
 (MATLAB R2015a. Last update: 2018-05-03)
 
-* Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2021).
+* Haihui Shen, L. Jeff Hong, and Xiaowei Zhang (2021).
 <a href="https://doi.org/10.1287/ijoc.2020.1009" target="_blank">Ranking and selection with covariates for personalized decision making.</a>
 *INFORMS Journal on Computing*, **33**(4):1500-1519.
 <a href="https://shenhaihui.github.io/research/papers/RSC2021.pdf" target="_blank">PDF</a> 
@@ -40,10 +40,13 @@ While the correctness has been carefully checked, the quality such as standardab
 (MATLAB R2018b. Last update: 2020-06-19)
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
-* Zhang, Xiaowei, Haihui Shen, L. Jeff Hong, and Liang Ding (2020). Knowledge gradient for selection with covariates: Consistency and computation. Submitted to *Naval Research Logistics*.
-<a href="https://arxiv.org/pdf/1906.05098v3.pdf" target="_blank">arXiv</a>   
-[Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperIKG2020/IKG2020.zip?raw=true "Click to download the entire package")
-(MATLAB R2018b. Last update: 2020-06-29)
+* Liang Ding, L. Jeff Hong, Haihui Shen, and Xiaowei Zhang (2021).
+* * Haihui Shen, L. Jeff Hong, and Xiaowei Zhang (2018).
+<a href="https://doi.org/10.1002/nav.22028" target="_blank">Technical note—Knowledge gradient for selection with covariates: Consistency and computation.</a>
+*Naval Research Logistics*, accepted.
+<a href="https://arxiv.org/abs/1906.05098" target="_blank">arXiv</a>   
+<a href="https://github.com/shenhaihui/ikg" target="_blank" title="View on GitHub">Codes</a>
+(MATLAB R2018b. Last update: 2021-09-08)
 
 &nbsp;    
 ## Codes Listed by Content
