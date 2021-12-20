@@ -41,7 +41,6 @@ While the correctness has been carefully checked, the quality such as standardab
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
 * Liang Ding, L. Jeff Hong, Haihui Shen, and Xiaowei Zhang (2021).
-* * Haihui Shen, L. Jeff Hong, and Xiaowei Zhang (2018).
 <a href="https://doi.org/10.1002/nav.22028" target="_blank">Technical note—Knowledge gradient for selection with covariates: Consistency and computation.</a>
 *Naval Research Logistics*, online.
 <a href="https://arxiv.org/abs/1906.05098" target="_blank">arXiv</a>   
