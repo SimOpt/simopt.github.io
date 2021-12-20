@@ -116,4 +116,4 @@ for comparison of simulation optimization solvers (algorithms)
 ---
 
 © simopt.github.io  
-Last Update: 2020-06-26
+Last Update: 2021-12-20
