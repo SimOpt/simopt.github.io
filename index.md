@@ -34,9 +34,10 @@ While the correctness has been carefully checked, the quality such as standardab
 <a href="https://doi.org/10.1287/ijoc.2020.1009" target="_blank">Ranking and selection with covariates for personalized decision making.</a>
 *INFORMS Journal on Computing*, 33(4):1500-1519.
 <a href="https://shenhaihui.github.io/research/papers/RSC2021.pdf" target="_blank">PDF</a> 
-<a href="https://shenhaihui.github.io/research/papers/RSC2021.pdf" target="_blank">E-Companion</a> 
-<a href="https://arxiv.org/abs/1710.02642" target="_blank">arXiv</a>
-[Codes](https://github.com/shenhaihui/rsc "View on GitHub")
+<a href="https://shenhaihui.github.io/research/papers/RSC2021_EC.pdf" target="_blank">E-Companion</a> 
+<a href="https://arxiv.org/abs/1710.02642" target="_blank">arXiv</a>    
+<a href="https://github.com/shenhaihui/rsc" target="_blank" title="View on GitHub">Codes</a>
+[Codes]( "View on GitHub")
 (MATLAB R2018b. Last update: 2020-06-19)
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
