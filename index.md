@@ -27,11 +27,16 @@ While the correctness has been carefully checked, the quality such as standardab
 <a href="https://doi.org/10.1080/24725854.2018.1465242" target="_blank">Enhancing stochastic kriging for queueing simulation with stylized models.</a>
 *IISE Transactions*, 50(11):943-958.
 <a href="https://shenhaihui.github.io/research/papers/SESK2018.pdf" target="_blank">PDF</a>  
-[Codes](https://shenhaihui.github.io/code/paperSESK2018/SESK2018.zip "Click to download the entire package")
+[Codes](https://simopt.github.io/code/paperSESK2018/SESK2018.zip "Click to download the entire package")
 (MATLAB R2015a. Last update: 2018-05-03)
 
-* Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2018). Ranking and selection with covariates for personalized decision making. Submitted to *INFORMS Journal on Computing*.  
-[Codes](https://github.com/SimOpt/simopt.github.io/blob/master/code/paperR&S-C2020/R&S-C2020.zip?raw=true "Click to download the entire package")
+* Shen, Haihui, L. Jeff Hong, and Xiaowei Zhang (2021).
+<a href="https://doi.org/10.1287/ijoc.2020.1009" target="_blank">Ranking and selection with covariates for personalized decision making.</a>
+*INFORMS Journal on Computing*, 33(4):1500-1519.
+<a href="https://shenhaihui.github.io/research/papers/RSC2021.pdf" target="_blank">PDF</a> 
+<a href="https://shenhaihui.github.io/research/papers/RSC2021.pdf" target="_blank">E-Companion</a> 
+<a href="https://arxiv.org/abs/1710.02642" target="_blank">arXiv</a>
+[Codes](https://github.com/shenhaihui/rsc "View on GitHub")
 (MATLAB R2018b. Last update: 2020-06-19)
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
