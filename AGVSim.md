@@ -1,5 +1,5 @@
 ---
-title: AGV系统仿真平台（Beta版）
+title: AGV系统仿真平台
 ---
 ---
 
@@ -12,7 +12,7 @@ Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheats
 Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.php
 -->
 
-## [AGV系统仿真平台（（Beta版）](https://simopt.github.io/AGVSim)
+## [AGV系统仿真平台（Beta版）](https://simopt.github.io/AGVSim)
 
 ### 软件下载
 
