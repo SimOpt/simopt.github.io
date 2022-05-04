@@ -112,7 +112,7 @@ The identified closed loops are then passed into the simulator together with all
 &nbsp;    
 ## 作者
 
-👨 石志浩
+👨 石志浩  
 👨 [沈海辉](https://shenhaihui.github.io)
 
 &nbsp;    
