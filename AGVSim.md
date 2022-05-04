@@ -1,5 +1,5 @@
 ---
-title: AGV系统仿真平台
+title: AGV系统仿真平台（（Beta版）
 ---
 ---
 
@@ -12,8 +12,18 @@ Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheats
 Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.php
 -->
 
-## [Queueing Network Simulator](https://simopt.github.io/QNSim)
+## [AGV系统仿真平台（（Beta版）](https://simopt.github.io/AGVSim)
 
+### 软件下载
+
+### 软件使用说明
+[软件使用说明](https://github.com/SimOpt/AGVSim)
+
+### 论文xx第4节中的实验
+[实验](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
+
+
+<!-- 
 ### Queueing Network Details  
 
 This simulator can simulate **open queueing network** that consists of a **finite number of G/G/s/K stations** to provide service.
@@ -95,26 +105,8 @@ The identified closed loops are then passed into the simulator together with all
   - averaged number of customers waiting in each station queue & the whole system<sup><font color="red">2</font></sup>, and the variance of the AVERAGED number
   - averaged sojourn time<sup><font color="red">3</font></sup> in each station & the whole system (waiting + serving), and the variance of the AVERAGED number
   - averaged waiting time<sup><font color="red">3,4</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
-  
+-->  
 
-<!--\* -->
-
-<!--*Notes:*  -->
-#### *Notes:*
-<sup><font color="red">1</font></sup>
-*It includes the customers waiting in the queue + customers under service + customers who have finished service but still occupy the server because the destination station is full.*  
-<sup><font color="red">2</font></sup>
-*Customers who have finished service but still occupy the server because the destination station is full are not included.*  
-<sup><font color="red">3</font></sup>
-*When calculating the averaged sojourn time and waiting time,
-only consider the customers ever enter the system and leave the system before simulation terminates,
-i.e., the rejected customers are not counted; the customers who are still in the system when simulation terminates are not counted.
-Besides, if a customer never enters station 1, he will not be counted when calculating averaged sojourn time and waiting time for station 1.
-(It is not difficult to modify the code to count all arrivals.)
-If a customer enters station 1 more than once, he is still regarded as one customer.*  
-<sup><font color="red">4</font></sup>
-*When a customer finishes service but still occupies the server because the destination station is full, such time period is not considered as waiting time.
-The waiting time only means the time a customer spends in the queue.* 
 
 &nbsp;    
 &nbsp;    
@@ -124,4 +116,4 @@ The waiting time only means the time a customer spends in the queue.*
 ---
 
 © simopt.github.io  
-Last Update: 2018-05-17
+Last Update: 2022-05-04
