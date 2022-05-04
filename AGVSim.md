@@ -1,5 +1,5 @@
 ---
-title: AGV系统仿真平台（（Beta版）
+title: AGV系统仿真平台（Beta版）
 ---
 ---
 
