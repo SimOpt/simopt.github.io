@@ -49,7 +49,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
  
 * 解决方法一：将自定义缩放大小设置为100%
 * 解决方法二：为AGV系统仿真平台选择高DPI缩放替代，如图3所示。
-![GUI3](https://simopt.github.io/code/AGVSim/gui_scale.png)
+![GUI3](https://simopt.github.io/code/AGVSim/gui_scale.png){:height="60%" width="60%"}
 图3：高DPI缩放替代
 
 ### 输入说明
