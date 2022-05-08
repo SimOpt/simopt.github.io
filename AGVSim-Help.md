@@ -98,7 +98,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ```
 """
 node0_1			arc0_1-1_1		node1_1
-arc0_0-0_1					    arc1_0-1_1
+arc0_0-0_1					  arc1_0-1_1
 node0_0			arc0_0-1_0		node1_0
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -118,7 +118,7 @@ node0_0			arc0_0-1_0		node1_0
 ```
 """
 node0_1			arc0_1-1_1		node1_1
-arc0_0-0_1					    arc1_0-1_1
+arc0_0-0_1					 arc1_0-1_1
 node0_0			arc0_0-1_0		node1_0
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
