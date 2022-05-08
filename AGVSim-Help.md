@@ -50,18 +50,10 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ![GUI3](https://simopt.github.io/code/AGVSim/gui_scale.png){:height="60%" width="60%"}    
 图3：高DPI缩放替代
 
-### 输入说明
-
-平台输入包括三个json文件，`map.json mission.json setting.json` 需要将三个json文件与平台程序放置在同一个路径下
- 
- 
- 
- 
 
 ## 文件结构：
 
 ```
-
 |-- map.json
 |-- mission.json
 |-- setting.json
@@ -70,24 +62,15 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 `-- log
     |-- log_date1
     |   |-- time1.log
-    | 	`--time2.log
-    | -- log_date2
-    `-- log_date3
+    | 	`-- time2.log
+    `-- log_date2
+``` 
+ 
+ 
+### 输入说明
 
-```
-
-
-
-## 显示：
-
-
-
-
-
-## 输出：
-
-平台完整运行完成后，会创建以日期-时间为区分的运行日志文件以及运行指标文件`simulationResult.csv`（如果已有csv文件，则追加填写，不覆盖原结果）
-
+平台输入包括三个json文件：`map.json` mission.json` `setting.json`，需要将三个json文件与平台程序放置在同一个目录下
+ 
 ## 输入详细说明：
 
 ### `map.json`
@@ -187,7 +170,25 @@ node0_0			arc0_0-1_0		node1_0
  
  "interfencePara": 误差项参数，0~1的实数，用于控制误差项大小，参数越大，路径时间误差越大
  
- "realMapFlag": 是否以真实地图显示，可设置为ture（真实地图）与false（拓扑地图）
+ "realMapFlag": 是否以真实地图显示，可设置为ture（真实地图）与false（拓扑地图） 
+ 
+ 
+
+
+
+
+
+## 显示：
+
+
+
+
+
+## 输出：
+
+平台完整运行完成后，会创建以日期-时间为区分的运行日志文件以及运行指标文件`simulationResult.csv`（如果已有csv文件，则追加填写，不覆盖原结果）
+
+
 
 
 &nbsp;    
