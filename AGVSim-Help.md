@@ -22,6 +22,7 @@ GUI界面左侧以2D俯视图形式显示AGV路径网络和AGV的实时位置与
 
 ![GUI1](https://simopt.github.io/code/AGVSim/gui1.png)
 图1：标准化显示
+<span style="font-size: 14px"> 
 
 ![GUI2](https://simopt.github.io/code/AGVSim/gui2.png)
 图2：真实比例显示
