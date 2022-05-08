@@ -41,7 +41,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 * GUI界面右侧以文字显示调度信息（包括任务指派结果、路径规划情况、路径冲突与解除情况等）、障碍信息（出现与消失）以及AGV运行信息（包括路径开始、路径结束与到达离开节点等）。
 
-<font color="brown">*显示异常解决*</font>
+<font color="brown">**显示异常解决**</font>
 平台界面在部分较小尺寸屏幕上显示无法完全显示，在window显示设置中更改较小的屏幕缩放比例即可解决这一问题。（当前Beta版本的平台暂不支持自适应显示调节，更多功能将在后续开发完成后发布）
 
 ### 输入说明
