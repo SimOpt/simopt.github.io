@@ -15,7 +15,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ## AGV系统仿真平台（Beta版）使用说明
 
 
-### 界面说明
+## 界面说明
 * GUI界面左侧以2D俯视图形式显示AGV路径网络和AGV的实时位置与状态，如图1-2所示。
   * 可通过拖拽窗口右下角调节见面大小和显示范围。
 
@@ -51,14 +51,15 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 图3：高DPI缩放替代
 
 
-## 文件结构：
+## 文件结构
 
 ```
+|-- AGV系统仿真平台Beta.exe
+|-- BatchRun.py
 |-- map.json
 |-- mission.json
 |-- setting.json
-|-- SimulationPlatform  
-|-- simulationResult.csv 
+`-- simulationResult.csv 
 `-- log
     |-- log_date1
     |   |-- time1.log
@@ -67,11 +68,13 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ``` 
  
  
-### 输入说明
+## 输入说明
 
-平台输入包括三个json文件：`map.json` mission.json` `setting.json`，需要将三个json文件与平台程序放置在同一个目录下
- 
-## 输入详细说明：
+平台输入包括三个json文件：
+ * `map.json` 指定路径网络的结构和大小
+ * `mission.json`
+ * `setting.json`
+需要将三个json文件与平台程序放置在同一个目录下
 
 ### `map.json`
 
