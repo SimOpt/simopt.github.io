@@ -72,9 +72,11 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 平台输入包括三个json文件：
  * `map.json` 指定路径网络的结构和大小
- * `mission.json`
- * `setting.json`
-需要将三个json文件与平台程序放置在同一个目录下
+ * `mission.json` 指定运输任务数量和起点-终点
+ * `setting.json` 指定AGV数量、任务到来时间、路径时间不确定性、随机障碍、调度算法（任务指派策略、路径规划算法、路径冲突应对策略）及其参数、随机种子等
+
+需要将三个json文件与平台程序放置在同一个目录下，如[文件结构](https://simopt.github.io/AGVSim-Help#%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84)中所示。
+
 
 ### `map.json`
 
@@ -98,7 +100,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ```
 """
 node0_1			arc0_1-1_1		node1_1
-arc0_0-0_1					  arc1_0-1_1
+arc0_0-0_1					arc1_0-1_1
 node0_0			arc0_0-1_0		node1_0
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -118,7 +120,7 @@ node0_0			arc0_0-1_0		node1_0
 ```
 """
 node0_1			arc0_1-1_1		node1_1
-arc0_0-0_1					 arc1_0-1_1
+arc0_0-0_1					arc1_0-1_1
 node0_0			arc0_0-1_0		node1_0
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
