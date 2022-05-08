@@ -17,7 +17,9 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ### 界面说明
 * GUI界面左侧以2D俯视图形式显示AGV路径网络和AGV的实时位置与状态，如图1-2所示。
-  * 由于每条路径的长度可以不同，路径网络既可以采用标准化显示（以等长的边显示不同长度的通道，如图1所示），也可以采用真实比例显示（如图2所示），以满足不同的需求。
+  * 可通过拖拽窗口右下角调节见面大小和显示范围。
+
+* 由于每条路径的长度可以不同，路径网络既可以采用标准化显示（以等长的边显示不同长度的通道，如图1所示），也可以采用真实比例显示（如图2所示），以满足不同的需求。
 
 ![GUI1](https://simopt.github.io/code/AGVSim/gui1.png)
 图1：标准化显示（在setting.json中令realMapFlag为false）
@@ -42,6 +44,9 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 * GUI界面右侧以文字显示调度信息（包括任务指派结果、路径规划情况、路径冲突与解除情况等）、障碍信息（出现与消失）以及AGV运行信息（包括路径开始、路径结束与到达离开节点等）。
 
 <font color="brown">**显示异常解决**</font>
+
+由于当前Beta版本的仿真平台暂不支持自适应显示调节，当显示器设定了自定义缩放大小时，
+ 
 平台界面在部分较小尺寸屏幕上显示无法完全显示，在window显示设置中更改较小的屏幕缩放比例即可解决这一问题。（当前Beta版本的平台暂不支持自适应显示调节，更多功能将在后续开发完成后发布）
 
 ### 输入说明
