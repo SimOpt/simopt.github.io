@@ -33,6 +33,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 |-- map.json
 |-- mission.json
 |-- setting.json
+|-- 说明.txt
 ``` 
 
 ### 使用说明
@@ -48,7 +49,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 
 &nbsp;    
-## 论文
+## 参考文献
 石志浩, 沈海辉 (2022). 不确定情景下AGV系统调度算法的离散事件仿真.
 
 
