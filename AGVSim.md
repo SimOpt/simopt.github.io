@@ -14,7 +14,6 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ## AGV系统仿真平台（Beta版）
 
-
 ![GUI](https://simopt.github.io/code/AGVSim/gui1.png)
 
 ### 软件下载
