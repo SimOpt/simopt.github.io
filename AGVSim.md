@@ -24,7 +24,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 
 ### 软件下载
-
+[[AGV系统仿真平台Beta_220509.zip]](https://simopt.github.io/code/AGVSim/AGV系统仿真平台Beta_220509.zip)
 压缩包中包含文件
 
 ```
@@ -44,7 +44,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 [[批量运行]](https://simopt.github.io/AGVSim-Help#%E6%89%B9%E9%87%8F%E8%BF%90%E8%A1%8C)
 
 ### 石志浩&沈海辉（2022，§4）中的实验输入
-[实验](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
+[[实验输入.zip]](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
 
 
 
