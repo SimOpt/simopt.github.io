@@ -26,8 +26,8 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ### 软件下载
 
 ### 使用说明
-[全部](https://simopt.github.io/AGVSim-Help)
-[界面说明](https://simopt.github.io/AGVSim-Help#%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E)
+[[全部]](https://simopt.github.io/AGVSim-Help)
+[[界面说明]](https://simopt.github.io/AGVSim-Help#%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E)
 
 ### 论文xx第4节中的实验
 [实验](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
