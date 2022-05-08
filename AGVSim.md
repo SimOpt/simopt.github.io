@@ -43,7 +43,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 [[输出]](https://simopt.github.io/AGVSim-Help#%E8%BE%93%E5%87%BA%E8%AF%B4%E6%98%8E)
 [[批量运行]](https://simopt.github.io/AGVSim-Help#%E6%89%B9%E9%87%8F%E8%BF%90%E8%A1%8C)
 
-### 石志浩&沈海辉（2022，§4）中实验输入
+### 石志浩&沈海辉（2022，§4）中的实验输入
 [实验](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
 
 
