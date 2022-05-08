@@ -23,7 +23,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ![GUI1](https://simopt.github.io/code/AGVSim/gui1.png)
 图1：标准化显示（在setting.json中令realMapFlag为false）
-<span style="font-size: 14px"> 
+&nbsp;  
 
 ![GUI2](https://simopt.github.io/code/AGVSim/gui2.png)
 图2：真实比例显示（在setting.json中令realMapFlag为true）
@@ -171,6 +171,9 @@ node0_0			arc0_0-1_0		node1_0
 文件保存位置如[文件结构](https://simopt.github.io/AGVSim-Help#%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84)中所示。
  
 关于各指标的详细说明，请见石志浩&沈海辉（2022）。
+
+ 
+ 
  
 &nbsp;    
 ## 文章
