@@ -3,7 +3,7 @@ title: AGV系统仿真平台
 ---
 ---
 
-&nbsp;    
+<!-- &nbsp;    -->
 <!-- insert one empty line -->
 <!-- can also use "<a></a>" or "<br><br>"  -->
 
@@ -14,7 +14,8 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ## AGV系统仿真平台（Beta版）
 
-![GUI](https://simopt.github.io/code/AGVSim/gui1.png){:height="70%" width="70%"}  
+
+![GUI](https://simopt.github.io/code/AGVSim/gui1.png)
 
 ### 软件下载
 
