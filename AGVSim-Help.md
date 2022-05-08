@@ -176,7 +176,8 @@ node0_0			arc0_0-1_0		node1_0
 * 默认情况下，"directFlag"为false，此时打开`AGV系统仿真平台Beta.exe`，仿真不会自动运行，需要点击相应按钮使仿真以某种模式开始。当仿真结束（即，设定的运输任务全部执行完毕）之后，会跳出对话框提示，点击确定之后程序关闭。
 * 若将"directFlag"改为true，则打开`AGV系统仿真平台Beta.exe`时仿真便自动以直达仿真模式运行，当仿真结束之后程序自动关闭；该运行方式专为批量运行而设置。
 * `AGV系统仿真平台Beta.exe`每完整运行一次，即为在指定的随机数种子（"randomSeed"）下，将设定的运输任务执行完毕。
-* 对于一个特定的调度问题，为了得到准确的关于调度效果指标的估计，必须在不同的随机数下重复运行`AGV系统仿真平台Beta.exe`，最终在输出文件`simulationResult.csv`中计算平均值。
+* 对于一个特定的调度问题，为了得到准确的关于调度效果指标的估计，必须在不同的随机数下重复运行`AGV系统仿真平台Beta.exe`，最终在输出文件`simulationResult.csv`中计算平均值。这便需要不断地修改`setting.json`中的"randomSeed"并且重复打开`AGV系统仿真平台Beta.exe`。
+* 上述过程可通过在Python中运行`BatchRun.py`实现批量运行，只需在代码中设置所需的"randomSeed"遍历范围。该程序会将"directFlag"临时设为true，以实现在无需人工干预的情况下重复运行`AGV系统仿真平台Beta.exe`。
  
  
 &nbsp;    
