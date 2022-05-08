@@ -16,7 +16,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ![GUI](https://simopt.github.io/code/AGVSim/gui1.png)
 
-### 说明
+### 平台简介
 本平台是石志浩&沈海辉（2022）中设计开发的基于离散事件仿真技术的AGV系统仿真平台。
 它可以灵活地设置调度问题，并选择调度算法中的任务指派策略、路径规划算法和路径冲突应对策略进行仿真。
 该平台具有可视化的界面，可以直观地观察AGV的运行状态和调度算法的表现，也可以输出最终的仿真实验统计数据。
@@ -25,11 +25,22 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ### 软件下载
 
+压缩包中包含文件
+
+```
+|-- AGV系统仿真平台Beta.exe
+|-- BatchRun.py
+|-- map.json
+|-- mission.json
+|-- setting.json
+``` 
+
 ### 使用说明
 [[全部]](https://simopt.github.io/AGVSim-Help)
 [[界面]](https://simopt.github.io/AGVSim-Help#%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E)
-[[输入]](https://simopt.github.io/AGVSim-Help#%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E)
-[[输出]](https://simopt.github.io/AGVSim-Help#%E7%95%8C%E9%9D%A2%E8%AF%B4%E6%98%8E)
+[[输入]](https://simopt.github.io/AGVSim-Help#%E8%BE%93%E5%85%A5%E8%AF%B4%E6%98%8E)
+[[输出]](https://simopt.github.io/AGVSim-Help#%E8%BE%93%E5%87%BA)
+[[批量运行]](https://simopt.github.io/AGVSim-Help#%E8%BE%93%E5%87%BA)
 
 ### 论文xx第4节中的实验
 [实验](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
