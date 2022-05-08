@@ -16,6 +16,11 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ![GUI](https://simopt.github.io/code/AGVSim/gui1.png)
 
+### 说明
+本平台是石志浩 & 沈海辉 (2022) 中设计开发的基于离散事件仿真技术的AGV系统仿真平台。
+它可以灵活地设置调度问题，并选择调度算法中的任务指派策略、路径规划算法和路径冲突应对策略进行仿真。
+该平台具有可视化的界面，可以直观地观察AGV的运行状态和调度算法的表现，也可以输出最终的仿真实验统计数据。
+
 ### 软件下载
 
 ### 软件使用说明
@@ -23,6 +28,12 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 ### 论文xx第4节中的实验
 [实验](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
+
+
+
+&nbsp;    
+## 文章
+石志浩, 沈海辉 (2022). 不确定情景下AGV系统调度算法的离散事件仿真.
 
 
 <!-- 
@@ -108,6 +119,7 @@ The identified closed loops are then passed into the simulator together with all
   - averaged sojourn time<sup><font color="red">3</font></sup> in each station & the whole system (waiting + serving), and the variance of the AVERAGED number
   - averaged waiting time<sup><font color="red">3,4</font></sup> in each station queue & the whole system, and the variance of the AVERAGED number
 -->  
+
 
 
 
