@@ -146,40 +146,24 @@ node0_0			arc0_0-1_0		node1_0
 
 * "totalLength": 所有任务无冲突最短路时间之和（用于仿真指标计算，不影响仿真过程，可用欧式距离粗略代替）
 
+
 ### `setting.json`
 
 包括以下字段：
 
-"assignStForMission": 任务驱动的任务指派策略选择，可设置为"NVF"、"LIVF"
-
- "assignStForCar": 车辆驱动的任务指派策略选择，可设置为"NMF"、"EMF"
-
- "routeAlgo": 路径规划算法选择，可设置为"TWRA"、"ASA"
-
- "conflictSt": 路径冲突应对策略选择，可设置为"CAS"、"CSS"、"MS"
- 
- "rescheduleCycel": 路径冲突应对策略的重调度周期，仅在"conflictSt"为"CAS"、"MS"时生效
-
- "carNum": AGV数量，大于0的整数
-
- "sparsePara": 任务稀疏参数，大于0的实数，参数越大，任务到来越稀疏
-
- "barrierPara": 障碍参数，0~1的实数，表示系统中障碍平均占所有位置的比例
-
- "randomSeed": 随机种子设置，任意整数，用于复现仿真结果
- 
- "interfencePara": 误差项参数，0~1的实数，用于控制误差项大小，参数越大，路径时间误差越大
- 
- "realMapFlag": 是否以真实地图显示，可设置为ture（真实地图）与false（拓扑地图） 
+* "assignStForMission": 任务驱动的任务指派策略选择，可设置为"NVF"、"LIVF"
+* "assignStForCar": 车辆驱动的任务指派策略选择，可设置为"NMF"、"EMF"
+* "routeAlgo": 路径规划算法选择，可设置为"TWRA"、"ASA"
+* "conflictSt": 路径冲突应对策略选择，可设置为"CAS"、"CSS"、"MS"
+* "rescheduleCycel": 路径冲突应对策略的重调度周期，仅在"conflictSt"为"CAS"、"MS"时生效
+* "carNum": AGV数量，大于0的整数
+* "sparsePara": 任务稀疏参数，大于0的实数，参数越大，任务到来越稀疏
+* "barrierPara": 障碍参数，0~1的实数，表示系统中障碍平均占所有位置的比例
+* "randomSeed": 随机种子设置，任意整数，用于复现仿真结果
+* "interfencePara": 误差项参数，0~1的实数，用于控制误差项大小，参数越大，路径时间误差越大
+* "realMapFlag": 是否以真实地图显示，可设置为ture（真实地图）与false（拓扑地图） 
  
  
-
-
-
-
-
-## 显示：
-
 
 
 
