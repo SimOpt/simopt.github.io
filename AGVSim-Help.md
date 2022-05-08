@@ -44,12 +44,10 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 * GUI界面右侧以文字显示调度信息（包括任务指派结果、路径规划情况、路径冲突与解除情况等）、障碍信息（出现与消失）以及AGV运行信息（包括路径开始、路径结束与到达离开节点等）。
 
 <font color="red">显示异常解决</font>
-
-由于当前Beta版本的仿真平台暂不支持自适应显示调节，当显示器设定了自定义缩放大小时，可能出现GUI显示不全的情况
- 
+ 由于当前Beta版本的仿真平台暂不支持自适应显示调节，当显示器设定了自定义缩放大小时，可能出现GUI显示不全的情况
 * 解决方法一：将自定义缩放大小设置为100%
 * 解决方法二：为AGV系统仿真平台选择高DPI缩放替代，如图3所示。
-![GUI3](https://simopt.github.io/code/AGVSim/gui_scale.png){:height="60%" width="60%"}
+![GUI3](https://simopt.github.io/code/AGVSim/gui_scale.png){:height="60%" width="60%"}    
 图3：高DPI缩放替代
 
 ### 输入说明
