@@ -140,28 +140,27 @@ node0_0			arc0_0-1_0		node1_0
 ]
 ```
 
-* "lengthList": 对应的任务在不考虑路径冲突时的最短路径时间
-  * 该数值用于调度效果指标的计算（修正），不影响仿真逻辑
-  * 可由A*算法求出，若想更加简单，可用欧式距离粗略代替
-
-* "totalLength": 所有任务无冲突最短路时间之和（用于仿真指标计算，不影响仿真过程，可用欧式距离粗略代替）
+* "lengthList": 对应的任务在忽略所有不确定性以及路径冲突情况下的最短行驶时间  
+  * 可由A*算法求出；若想更加简单，可用欧式距离粗略计算
+* "totalLength": 在忽略所有不确定性以及路径冲突情况下全部任务的最短行驶时间的总和 
+  * 该数值用于定义任务稀疏参数，控制任务带来的密集程度
 
 
 ### `setting.json`
 
 包括以下字段：
 
-* "assignStForMission": 任务驱动的任务指派策略选择，可设置为"NVF"、"LIVF"
-* "assignStForCar": 车辆驱动的任务指派策略选择，可设置为"NMF"、"EMF"
-* "routeAlgo": 路径规划算法选择，可设置为"TWRA"、"ASA"
-* "conflictSt": 路径冲突应对策略选择，可设置为"CAS"、"CSS"、"MS"
+* "assignStForMission": 任务驱动的任务指派策略，可设置为"NVF"、"LIVF"
+* "assignStForCar": 车辆驱动的任务指派策略，可设置为"NMF"、"EMF"
+* "routeAlgo": 路径规划算法，可设置为"TWRA"、"ASA"
+* "conflictSt": 路径冲突应对策略，可设置为"CAS"、"CSS"、"MS"
 * "rescheduleCycel": 路径冲突应对策略的重调度周期，仅在"conflictSt"为"CAS"、"MS"时生效
 * "carNum": AGV数量，大于0的整数
-* "sparsePara": 任务稀疏参数，大于0的实数，参数越大，任务到来越稀疏
-* "barrierPara": 障碍参数，0~1的实数，表示系统中障碍平均占所有位置的比例
-* "randomSeed": 随机种子设置，任意整数，用于复现仿真结果
-* "interfencePara": 误差项参数，0~1的实数，用于控制误差项大小，参数越大，路径时间误差越大
-* "realMapFlag": 是否以真实地图显示，可设置为ture（真实地图）与false（拓扑地图） 
+* "sparsePara": 任务稀疏参数，大于0的实数，数值越大，任务到来越稀疏
+* "barrierPara": 障碍频繁参数，0~1的实数，表示系统中障碍平均占所有位置的比例
+* "randomSeed": 随机种子设置，任意整数，用于控制随机数序列
+* "interfencePara": 不确定性参数，0~1的实数，数值越大，表示AGV在路径上行驶的时候，实际用时与期望用时之间偏差的随机性越大
+* "realMapFlag": 是否以真实比例显示路径网络，可设置为ture（真实比例）或false（标准化显示） 
  
  
 
