@@ -45,8 +45,29 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 [[批量运行]](https://simopt.github.io/AGVSim-Help#%E6%89%B9%E9%87%8F%E8%BF%90%E8%A1%8C)
 
 ### 石志浩&沈海辉（2022，§4）中的实验输入
-[[实验输入.zip]](https://github.com/SimOpt/AGVSim/tree/main/ExperimentsInPaper)
+[[文中实验输入文件与说明.zip]](https://simopt.github.io/code/AGVSim/文中实验输入文件与说明.zip)
 
+压缩包中包含文件
+
+```
+|-- map.json
+|-- mission.json
+|-- setting.json
+|-- 总体说明.txt
+|-- 4.2 CAS中重调度周期的影响
+    |-- setting_Case1_重调度周期x.json
+    |-- setting_Case2_重调度周期x.json
+    |-- setting_Case3_重调度周期x.json
+    |-- 说明.txt
+|-- 4.3 AGV调度算法效果对比
+    |-- setting_Case1_冲突应对策略x.json
+    |-- setting_Case2_冲突应对策略x.json
+    |-- setting_Case3_冲突应对策略x.json
+    |-- 说明.txt
+|-- 4.4 CSS特性探究
+    |-- setting_维度x.json
+    |-- 说明.txt
+``` 
 
 
 &nbsp;    
