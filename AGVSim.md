@@ -52,7 +52,6 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ```
 |-- map.json
 |-- mission.json
-|-- setting.json
 |-- 总体说明.txt
 |-- 4.2 CAS中重调度周期的影响
     |-- setting_Case1_重调度周期x.json
