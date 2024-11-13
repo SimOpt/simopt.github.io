@@ -17,10 +17,10 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ![GUI](https://simopt.github.io/code/AGVSim/gui1.png)
 
 ### 平台简介
-本平台是石志浩&沈海辉（2022）中设计开发的基于离散事件仿真技术的AGV系统仿真平台。
+本平台是石志浩&沈海辉（2024）中设计开发的基于离散事件仿真技术的AGV系统仿真平台。
 它可以灵活地设置调度问题，并选择调度算法中的任务指派策略、路径规划算法和路径冲突应对策略进行仿真。
 该平台具有可视化的界面，可以直观地观察AGV的运行状态和调度算法的表现，也可以输出最终的仿真实验统计数据。
-关于本平台的设计背景、逻辑架构、内置调度算法等的详细说明，请见石志浩&沈海辉（2022）。 
+关于本平台的设计背景、逻辑架构、内置调度算法等的详细说明，请见石志浩&沈海辉（2024）。 
 
 
 ### 软件下载
@@ -44,7 +44,7 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 [[输出]](https://simopt.github.io/AGVSim-Help#%E8%BE%93%E5%87%BA%E8%AF%B4%E6%98%8E)
 [[批量运行]](https://simopt.github.io/AGVSim-Help#%E6%89%B9%E9%87%8F%E8%BF%90%E8%A1%8C)
 
-### 石志浩&沈海辉（2022，§4）中的实验输入
+### 石志浩&沈海辉（2024，§4）中的实验输入
 [[文中实验输入文件与说明.zip]](https://simopt.github.io/code/AGVSim/文中实验输入文件与说明.zip)
 
 压缩包中包含文件
@@ -71,9 +71,9 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 
 &nbsp;    
 ## 参考文献
-石志浩, 沈海辉 (2022). 不确定情景下AGV系统调度算法的离散事件仿真.
-
-
+石志浩, 沈海辉 (2024).
+<a href="https://doi.org/10.16182/j.issn1004731x.joss.22-1214" target="_blank">不确定情景下AGV系统调度算法的离散事件仿真</a>.
+系统仿真学报, **36**(2):385-404.
 
 &nbsp;    
 ## 作者
@@ -89,4 +89,4 @@ Mathematical formulae are supported by https://www.codecogs.com/latex/eqneditor.
 ---
 
 © simopt.github.io  
-Last Update: 2022-05-04
+Last Update: 2024-11-13
