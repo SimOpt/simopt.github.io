@@ -102,6 +102,8 @@ and
 &nbsp;- proposed by
 <a href="https://doi.org/10.1287/opre.1120.1143" target="_blank">Chen et al. (2013)</a>
 
+* [Gradient-Enhanced Stochastic Kriging (GESK) for Derivative Pricing and Hedging](https://github.com/INFORMSJoC/2023.0292)
+
 <!--
 ### Optimization via Simulation
 * [Convergent Optimization via Most-Promising-Area Stochastic Search (COMPASS)]()    
