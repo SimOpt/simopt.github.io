@@ -88,9 +88,12 @@ and
 &nbsp;- 不确定情景下AGV系统调度算法的离散事件仿真平台
 
 ### Ranking & Selection
-* Ranking & Selection with Covariates (R&S-C)
+* Ranking & Selection with Covariates (R&S-C)   
 &nbsp;- [Two-stage procedures under frequentist formulation](https://github.com/shenhaihui/rsc)   
 &nbsp;- [Knowledge gradient procedure under Bayesian formulation](https://github.com/shenhaihui/ikg)
+
+### Simulation Optimization
+* [Gaussian Process-Based Random Search for Continuous Problems](https://github.com/xiuxianwang/GPS-C-algorithm)
 
 ### Kriging Metamodeling
 <!-- * Stochastic kriging, copyrighted by Barry L. Nelson et al. (2009) -->
