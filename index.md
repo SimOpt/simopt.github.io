@@ -64,6 +64,12 @@ While the correctness has been carefully checked, the quality such as standardab
 <a href="https://github.com/xiuxianwang/GPS-C-algorithm" title="View on GitHub." target="_blank">Codes</a>
 (MATLAB. Last update: 2023)
 
+* 石志浩, 沈海辉* (2024).
+<a href="https://doi.org/10.16182/j.issn1004731x.joss.22-1214" target="_blank">不确定情景下AGV系统调度算法的离散事件仿真</a>.
+系统仿真学报, **36**(2):385-404.
+<a href="https://shenhaihui.github.io/research/papers/AGV2024.pdf" target="_blank">PDF</a>   
+<a href="https://simopt.github.io/AGVSim" title="View on GitHub." target="_blank">AGV系统仿真平台</a>
+(Beta版)
 
 &nbsp;    
 ## Codes Listed by Content
