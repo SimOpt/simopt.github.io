@@ -99,7 +99,8 @@ and
 <!-- * Stochastic kriging, copyrighted by Barry L. Nelson et al. (2009) -->
 
 * [Stochastic Kriging (SK)](https://users.iems.northwestern.edu/~nelsonb/SK/)    
-&nbsp;- a metamodeling methodology developed for stochastic simulation experiments, based on the highly successful kriging method for the design and analysis of computer experiments
+&nbsp;- a metamodeling methodology developed for stochastic simulation experiments
+&nbsp;- based on the highly successful kriging method for the design and analysis of computer experiments
 
 * [Stochastic Kriging with Gradient (SKG)](https://simopt.github.io/SKG)    
 &nbsp;- proposed by
