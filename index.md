@@ -89,7 +89,7 @@ and
 
 ### Ranking & Selection
 * Ranking & Selection with Covariates
-&nbsp;- [Two-stage procedures under frequentist formulation](https://github.com/shenhaihui/rsc)
+&nbsp;- [Two-stage procedures under frequentist formulation](https://github.com/shenhaihui/rsc)   
 &nbsp;- [Knowledge gradient procedure under Bayesian formulation](https://github.com/shenhaihui/ikg)
 
 ### Kriging Metamodeling
@@ -151,4 +151,4 @@ for comparison of simulation optimization solvers (algorithms)
 ---
 
 © simopt.github.io  
-Last Update: 2021-12-20
+Last Update: 2024-11-13
