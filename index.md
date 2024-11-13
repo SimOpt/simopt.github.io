@@ -40,9 +40,11 @@ While the correctness has been carefully checked, the quality such as standardab
 (MATLAB R2018b. Last update: 2020-06-19)
 <!-- <a href="https://arxiv.org/pdf/1710.02642.pdf" target="_blank">arXiv PDF</a> (an early version)  -->
 
-* Liang Ding, L. Jeff Hong, Haihui Shen, and Xiaowei Zhang (2021).
+* Liang Ding, L. Jeff Hong, Haihui Shen, and Xiaowei Zhang (2022).
 <a href="https://doi.org/10.1002/nav.22028" target="_blank">Technical note—Knowledge gradient for selection with covariates: Consistency and computation.</a>
-*Naval Research Logistics*, online.
+*Naval Research Logistics*, **69**(3):496-507.
+<a href="https://shenhaihui.github.io/research/papers/IKG2022.pdf" target="_blank">PDF</a> 
+<a href="https://shenhaihui.github.io/research/papers/IKG2022_Appx.pdf" target="_blank">Appendix</a>
 <a href="https://arxiv.org/abs/1906.05098" target="_blank">arXiv</a>   
 <a href="https://github.com/shenhaihui/ikg" target="_blank" title="View on GitHub">Codes</a>
 (MATLAB R2018b. Last update: 2021-09-08)
