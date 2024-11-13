@@ -49,6 +49,22 @@ While the correctness has been carefully checked, the quality such as standardab
 <a href="https://github.com/shenhaihui/ikg" target="_blank" title="View on GitHub">Codes</a>
 (MATLAB R2018b. Last update: 2021-09-08)
 
+* Guangxin Jiang, L. Jeff Hong, and <strong>Haihui Shen</strong> (2024).
+<a href="https://doi.org/10.1287/ijoc.2023.0292" target="_blank">Real-time derivative pricing and hedging with consistent metamodels.</a>
+*INFORMS Journal on Computing*, **36**(5):1168-1189.
+<a href="https://shenhaihui.github.io/research/papers/GESK2024.pdf" target="_blank">PDF</a>
+<a href="https://shenhaihui.github.io/research/papers/GESK2024_EC.pdf" target="_blank">E-Companion</a>   
+<a href="https://github.com/INFORMSJoC/2023.0292" title="View on GitHub." target="_blank">Codes</a>	
+(MATLAB R2022a. Last update: 2024-01)
+
+* Xiuxian Wang, L. Jeff Hong, Zhibin Jiang, and Haihui Shen (2023).
+<a href="https://doi.org/10.1287/opre.2021.0303" target="_blank">Gaussian process-based random search for continuous optimization via simulation.</a>
+*Operations Research*, online.
+<a href="https://www.researchgate.net/publication/351599952_Gaussian_Process_Based_Search_for_Continuous_Optimization_via_Simulation" target="_blank">ResearchGate</a>   
+<a href="https://github.com/xiuxianwang/GPS-C-algorithm" title="View on GitHub." target="_blank">Codes</a>
+(MATLAB. Last update: 2023)
+
+
 &nbsp;    
 ## Codes Listed by Content
 
