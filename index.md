@@ -84,6 +84,10 @@ While the correctness has been carefully checked, the quality such as standardab
 and 
 <a href="http://cancerpreventionresearch.aacrjournals.org/content/7/3/341" target="_blank">Choi et al. (2014)</a>
 
+* [AGV系统仿真平台](https://simopt.github.io/AGVSim)  
+&nbsp;- 不确定情景下AGV系统调度算法的离散事件仿真平台
+
+
 ### Kriging Metamodeling
 <!-- * Stochastic kriging, copyrighted by Barry L. Nelson et al. (2009) -->
 
