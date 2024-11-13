@@ -87,9 +87,16 @@ and
 * [AGV系统仿真平台](https://simopt.github.io/AGVSim)  
 &nbsp;- 不确定情景下AGV系统调度算法的离散事件仿真平台
 
+### Ranking & Selection
+* Ranking & Selection with Covariates
+&nbsp;- [Two-stage procedures under frequentist formulation](https://github.com/shenhaihui/rsc)
+&nbsp;- [Knowledge gradient procedure under Bayesian formulation](https://github.com/shenhaihui/ikg)
 
 ### Kriging Metamodeling
 <!-- * Stochastic kriging, copyrighted by Barry L. Nelson et al. (2009) -->
+
+* [Stochastic Kriging (SK)](https://users.iems.northwestern.edu/~nelsonb/SK/)    
+&nbsp;- a metamodeling methodology developed for stochastic simulation experiments, based on the highly successful kriging method for the design and analysis of computer experiments
 
 * [Stochastic Kriging with Gradient (SKG)](https://simopt.github.io/SKG)    
 &nbsp;- proposed by
