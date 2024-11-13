@@ -88,7 +88,7 @@ and
 &nbsp;- 不确定情景下AGV系统调度算法的离散事件仿真平台
 
 ### Ranking & Selection
-* Ranking & Selection with Covariates
+* Ranking & Selection with Covariates (R&S-C)
 &nbsp;- [Two-stage procedures under frequentist formulation](https://github.com/shenhaihui/rsc)   
 &nbsp;- [Knowledge gradient procedure under Bayesian formulation](https://github.com/shenhaihui/ikg)
 
@@ -113,11 +113,6 @@ and
 * [Gaussian Process-based Search (GPS)](https://simopt.github.io/GPS)    
 &nbsp;- a globally convergent algorithm for discrete optimization via simulation    
 &nbsp;- proposed by [Sun et al. (2014)](https://doi.org/10.1287/opre.2014.1315)
--->
-
-<!--
-### Ranking & Selection
-* [Ranking and Selection with Covariates (R&S-C)]()
 -->
 
 <!--
