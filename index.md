@@ -8,7 +8,7 @@ title:
 <!-- can also use "<a></a>" or "<br><br>"  -->
 
 ## About
-This repository archives codes written or collected by [SHEN Haihui](https://shenhaihui.github.io) for the purpose of research in the areas of simulation optimization, ranking & selection, kriging metamodeling, etc.
+This repository archives codes/software written or collected by [SHEN Haihui](https://shenhaihui.github.io) or his team for the purpose of research in the areas of simulation optimization, ranking & selection, kriging metamodeling, etc.
 These codes are mainly implementations of some models and algorithms developed by SHEN Haihui and other researchers.
 
 **LICENSE:**
